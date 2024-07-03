@@ -1,1 +1,7 @@
- This repository contains the tasks given for the second round(Assignment Submission) at AspireNex opportunity
+This repository contains the tasks given for the second round(Assignment Submission) at AspireNex opportunity
+
+# TASK 1 - MOVIE GENRE CLASSIFICATION 
+This project aims to predict the genre of a movie based on its plot summary or textual data. The dataset typically includes movie plot summaries and corresponding genre labels, such as action, comedy, drama, etc. The workflow involves preprocessing the text data to remove noise and normalize it, extracting features using techniques like TF-IDF, selecting and training different classification models like Logistic Regression or Naive Byes, evaluating model performance using metrics such as accuracy and F1-score, and deploying the model for genre prediction tasks. This project is valuable for applications in movie recommendation systems and content categorization
+
+# TASK 2 - CREDIT CARD FRAUD DETECTION 
+This project aims to identify fraudulent transactions among legitimate ones in credit card datasets. The dataset contains credit card transactions made by European cardholders in 2023, totaling over 550,000 records. It includes transaction details such as amount, timestamp, and potentially other features relevant to fraud detection The project involves preprocessing data to handle imbalance, exploring patterns using visualization, applying machine learning algorithms like Logistic Regression, Random Forests, and Decision Tree for classification, evaluating models using metrics such as precision, recall. This project is crucial for financial institutions to minimize losses due to fraudulent activities and enhance security measures.
